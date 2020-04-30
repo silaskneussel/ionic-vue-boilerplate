@@ -1,0 +1,8 @@
+{
+  "appId": "com.fapp.app",
+  "appName": "fapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
